@@ -19,9 +19,9 @@
    You can use any IDE that you prefer.
    
    You can check the following to run c++ code on your pc using Visual studio code:
-        https://code.visualstudio.com/docs/languages/cpp
+       https://code.visualstudio.com/docs/languages/cpp
    
    You can also check the following vedio to setup visual studio code:
-        https://www.youtube.com/watch?v=77v-Poud_io
+       https://www.youtube.com/watch?v=77v-Poud_io
    
     
